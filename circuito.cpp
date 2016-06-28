@@ -161,6 +161,9 @@ void Mostrar_Circuito(bool cod1, bool cod2, bool cod3, bool cod4)
 			3 3 2 3
 		ele irá ascender, pois a sequencia que foi "dada" pelo programa foi exatamente 
 		a que o usuario digitou. Porém, do contrario ele não ascenderá e assim para os demais códigos.
+		
+		Diante disso é possivel observar que no primeiro IF tem a execulsão do que se pede já o else temos 
+		um outra opção que será executada quando o IF for falso.
 	*/
 	
 	if (cod2 == true)
